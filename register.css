@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
 
-
 *{
    font-family: 'Poppins', sans-serif;
    margin:0; padding:0;
@@ -29,7 +28,6 @@
    color: var(--text-dark);
    text-shadow: 1px 1px 0 #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
  }
- 
 
 .container .content h3{
    font-size: 30px;
@@ -77,7 +75,7 @@
    padding:20px;
    align-items: center;
    min-block-size: 100vh;
-   background: url('image/header.jpeg.jpg') no-repeat;
+   background: url('../vtg pics/bg.jpg') no-repeat;
    background-size: cover;
    background-position: center;
 }

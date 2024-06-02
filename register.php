@@ -1,7 +1,7 @@
 <?php
 
 // Include database connection file
-@include 'vintage_db.php';
+@include 'login/page/vintage_db.php';
 
 // Start session
 session_start();
